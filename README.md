@@ -1,7 +1,9 @@
-# We Can Save Democracy
+# We Can Save Democracy-Type project
+
+https://github.com/november9/wecansavedemocracy
 
 ## Summary
-Web application to be hosted at "WeCanSaveDemocracy.org" to help citizens take political action on progressive issues by selecting from a list of available actions and events, and then adding that list of actions and events to their personal calendar (Google, Outlook, Apple, Yahoo, .ics download, etc).
+Help citizens take political action on progressive issues by selecting from a list of available actions and events, and then adding that list of actions and events to their personal calendar (Google, Outlook, Apple, Yahoo, .ics download, etc).
 
 The API for the actions and events is served via (don't laugh) WordPress using the "WP REST API" plugin. This allows us to quickly create new entities and add a remove new fields. Removing the need to create an admin panel for data entry by non-technical users reduces the scope and timeline of the project by (what I estimate as) over 50%.   
 
